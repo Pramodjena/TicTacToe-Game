@@ -18,7 +18,7 @@ This is a simple implementation of the classic Tic Tac Toe game built with React
 
 ## Demo
 
-You can try out the live demo of the game [Deploy Link](#your-live-demo-link).
+You can try out the live demo of the game [Deploy Link](https://tictactoe-game-online.netlify.app/).
 
 ## Installation
 
